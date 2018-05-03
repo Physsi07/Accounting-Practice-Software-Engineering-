@@ -10,7 +10,6 @@
 This is Python application that can be used for account management. It also provides a graphical user interface that takes user inputs, access MySQL database, and add user inputs to an existing table or create the new table dynamically in the database.
 
 ### To run this program, you will need:
-
 - Python IDE (Aanaconda 3.0+ -> Spyder -> Python 3.0+ recommended. Also, please make sure your python has pymysql, time, warnings, datetime, json, os, and tkinter modules. if you don't have them you can easily install them from the terminal by googling the Anaconda command).
 - Database with data (You can use the CSV data provided in the data folder for importing to your database).
 - Make modification to the "def ConnectToSQL()" method accordingly to access the database from your PC.
