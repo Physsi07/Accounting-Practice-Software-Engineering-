@@ -39,7 +39,7 @@ This is Python application that can be used for account management. It also prov
 - Reads client(s)’ data.
 - Provides Graphical User Interface for the user inputs.
 - Adds new data to database from the user inputs.
-- Access JSON data file which contaions tax peroid dates and payment dates for each state.
+- Access JSON data file which contaions tax period dates and payment dates for each state.
 - Process the HTML pages and reports(homepage, recent, monthly, quarterly tax, all, and summary) for each client and admin.
 
 ### How to access the HTML reports:
