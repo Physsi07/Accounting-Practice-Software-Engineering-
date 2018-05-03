@@ -21,6 +21,7 @@ This is Python application that can be used for account management. It also prov
 
 ### Requirements:
 - The client wants to be able to manage the sales tax of his client companies.
+- The sales tax needs to paid to each state based on the peroid and by collection dates.
 - Track the amount of transactions in the sales account and the amount of sales tax in the Escrow account for every client.
 - Send or display a statement to the client for monthly transactions.
 - 5 clients and 5 different POS( point-of-sales).
@@ -30,14 +31,15 @@ This is Python application that can be used for account management. It also prov
 - 5 Companies, 5 buisness and escorw accounts for income, expenses, and taxes(NY, NJ, CT, Chicago, Boston).
 - Data Analytics. The gathered tables, charts and graphs of the income, expenses and the sales tax collected as HTML reports.
 - Expenses gets debited from the income account and NOT the tax accounts.
-- Statements get generated out as HTML file for each clients' and admin's homepage where you can access recent, monthly, quarterly tax, all, and summary reports for each client.
+- Statements get generated out as HTML file for each clients' and admin's homepage where you can access recent, monthly, tax reports based on tax period and payment dates for each states, all, and summary reports for each client.
 
 ### This model of solution provides:
 - Python Program.
 - Connects to the database.
 - Reads client(s)’ data.
 - Provides Graphical User Interface for the user inputs.
-- Adds new data to database from the user inputs.  
+- Adds new data to database from the user inputs.
+- Access JSON data file which contaions tax peroid dates and payment dates for each state.
 - Process the HTML pages and reports(homepage, recent, monthly, quarterly tax, all, and summary) for each client and admin.
 
 ### How to access the HTML reports:
