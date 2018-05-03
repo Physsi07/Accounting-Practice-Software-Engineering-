@@ -2,7 +2,7 @@
 # All the files and the code can be found on the link below.
 # Link: https://github.com/zchy/accountDB_with_mySQL_and_Python/blob/master/Version%202-Updated/
 ## This version contians:
-- Error and bug fixes (won't show warnning message after valid input provided, table title renamed to 'Tax' prevously worng title provided for the tax).
+- Error and bug fixes (won't show warnning message after valid input provided, table title renamed to 'Tax' previously worng title provided for the tax).
 - Numbers are now rounded (client requested in the last presentation).
 - As a reminder: don't forget put all HTML files in one folder and change the database name accordingly.
 
