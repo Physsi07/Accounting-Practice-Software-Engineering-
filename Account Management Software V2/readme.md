@@ -45,5 +45,7 @@ This is a Python application that can be used for account management. It also pr
 ### How to access the HTML reports:
 For each client the homepages are named "Client_Name Home". Once client opens its homepage in the web browser, the client will be able to access all the reports from the homepage. For admin, the homepage is named "Home Home". Once the admin opens in the web browser, the admin will have access to all clients homepages and the reports. The admin homepage also have a summary page which contains summary report where the admin can see overall account summary for all the 5 clients, and "master_table homepage" if the admin wish to see all the transactions in one place. 
 
+# Documantation link: https://docs.google.com/document/d/1461nRt6sxTG2U2MwdWIaMmRoIS7vBMk2D1cvPZ7lXsI/edit?usp=sharing
+
 
 
