@@ -1,6 +1,5 @@
 # The versoin 2 of the AMS.
-# All the files and the code can be found on the link below.
-# Link: https://github.com/zchy/accountDB_with_mySQL_and_Python/blob/master/Version%202-Updated/
+
 ## This version contians:
 - Error and bug fixes (won't show warnning message after valid input provided, table title renamed to 'Tax' previously worng title provided for the tax).
 - Numbers are now rounded (client requested in the last presentation).
@@ -47,5 +46,6 @@ For each client the homepages are named "Client_Name Home". Once client opens it
 
 # Documantation link: https://docs.google.com/document/d/1461nRt6sxTG2U2MwdWIaMmRoIS7vBMk2D1cvPZ7lXsI/edit?usp=sharing
 
-
+# All the files and the code can be found backedup on the link below. If anything missing, please refer to the provided link.
+# Link: https://github.com/zchy/accountDB_with_mySQL_and_Python/blob/master/Version%202-Updated/
 
